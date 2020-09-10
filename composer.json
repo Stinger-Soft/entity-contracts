@@ -1,5 +1,5 @@
 {
-	"name" : "stinger-soft/contract-entity",
+	"name" : "stinger-soft/entity-contracts",
 	"type" : "symfony-bundle",
 	"description" : "Generic abstractions related to entities",
 	"keywords" : [
